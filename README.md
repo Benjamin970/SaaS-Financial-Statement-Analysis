@@ -1,14 +1,14 @@
 # SaaS-Financial-Statement-Analysis
 
-### Project Overview
+## Project Overview
 This project focuses on the financial analysis of a Software as a Service (SaaS) company by comparing actual versus budgeted performance across key financial metrics. Using Excel for data cleaning and preprocessing, and Power BI for data modeling, DAX calculations, and interactive dashboard creation, the analysis delivers a comprehensive view of the company’s revenue trends, expense management, and profitability. The project highlights variances in operating expenses, gross profit, net profit, and total revenue, enabling deeper insight into financial performance. Visual storytelling through dashboards provides stakeholders with clear, actionable insights to support strategic planning and decision-making.
 
-### Report Preview
+## Report Preview
 ![Screenshot 2025-05-05 233741](https://github.com/user-attachments/assets/81127638-d8bf-4059-b45d-505e628b53b1)
 ![Screenshot 2025-05-05 233956](https://github.com/user-attachments/assets/22610c41-2d81-4a8c-b118-922bbd085474)
 ![Screenshot 2025-05-05 234143](https://github.com/user-attachments/assets/2b4563a7-8a36-4613-9b80-60e25cde853f)
 
-### Data Sources
+## Data Sources
 The dataset used in this project consists of structured financial records from a simulated SaaS company. The data includes:
 - ACCOUNTS Table – Chart of bank accounts detailing revenue and expense categories.
 - TRANSACTIONS Table – Actual financial transactions recorded over a multi-year period.
@@ -16,7 +16,7 @@ The dataset used in this project consists of structured financial records from a
 
 These datasets were synthesized for analytical purposes and imported into Power BI after initial exploration and cleaning in Excel. The data reflects realistic financial structures and performance scenarios typical of SaaS businesses, including recurring subscription revenue, enterprise licensing, and vendor-based expenditures.
 
-### Data Cleaning and Preparation
+## Data Cleaning and Preparation
 The raw financial datasets were first processed in Excel and Power Query to ensure accuracy, consistency, and readiness for analysis in Power BI. Key cleaning and preparation steps included:
 
 1. Handling Missing Values: Reviewed and addressed missing or null entries in transaction and budget records to prevent analytical errors.
@@ -28,7 +28,7 @@ The raw financial datasets were first processed in Excel and Power Query to ensu
 
 These steps laid the groundwork for building a reliable, scalable Power BI data model and producing accurate, actionable insights.
 
-### Data Analysis
+## Data Analysis
 The data analysis focused on evaluating financial performance by comparing actual results with budgeted expectations across multiple dimensions. Key areas of analysis included:
 
 - Revenue Analysis: Tracked trends and variances in revenue over time, identifying strong performance in recurring SaaS subscriptions (68% of total revenue) and seasonal spikes, particularly in Q4.
@@ -40,7 +40,7 @@ The data analysis focused on evaluating financial performance by comparing actua
 
 This analytical approach provided a clear financial narrative and helped surface actionable opportunities to optimize budgeting, cost control, and revenue strategies.
 
-### Results and Findings
+## Results and Findings
 The analysis uncovered several key insights into the SaaS company’s financial health and operational performance:
 
 - Revenue Growth: Strong and accelerating revenue growth from 2022 to 2024, with actual revenue surpassing budget targets in 2024. October 2024 marked the highest revenue point in company history.
@@ -53,7 +53,7 @@ The analysis uncovered several key insights into the SaaS company’s financial 
 
 These findings point to the need for stronger cost governance, more accurate forecasting, and targeted strategies to smoothen profit margins and reduce risk exposure while leveraging growth momentum.
 
-### Recommendations
+## Recommendations
 Based on the findings from the analysis, the following strategic recommendations are proposed to improve the company’s financial performance and operational resilience:
 
 - Strengthen Q3 Operational Planning:
@@ -78,7 +78,7 @@ Leverage Q4 momentum—especially in October–December—by launching year-end 
 Use historical data and advanced forecasting tools (e.g., machine learning models) to create more realistic budgets that reflect cyclical patterns and operational volatility.
 
 
-### Limitations
+## Limitations
 
 - Scope Exclusions: The analysis focuses strictly on internal financial data (revenue, expenses, budgets) and excludes non-financial metrics such as customer satisfaction, churn rate, market conditions, or operational KPIs, which are also critical for holistic performance evaluation.
 
